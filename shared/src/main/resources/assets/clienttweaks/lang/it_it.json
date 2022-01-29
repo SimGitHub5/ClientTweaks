@@ -12,7 +12,7 @@
     "text.autoconfig.clienttweaks.option.tweaks.autoClimbLadder": "Auto Climb Ladder",
     "text.autoconfig.clienttweaks.option.tweaks.doNotUseLastTorch": "Non usare l'ultima torcia",
     "text.autoconfig.clienttweaks.option.tweaks.hideOffhandItem": "Hide Offhand Item",
-    "text.autoconfig.clienttweaks.option.tweaks.hideOwnParticleEffects": "Hide Own Particle Effects",
+    "text.autoconfig.clienttweaks.option.tweaks.hideOwnParticleEffects": "Nascondi i propri effetti particellari",
     "text.autoconfig.clienttweaks.option.tweaks.hideShieldUnlessHoldingWeapon": "Hide Shield Unless Holding Weapon",
     "text.autoconfig.clienttweaks.option.tweaks.noOffhandTorchAtAll": "No Offhand Torch At All",
     "text.autoconfig.clienttweaks.option.tweaks.noOffhandTorchWithBlock": "No Offhand Torch With Block",
